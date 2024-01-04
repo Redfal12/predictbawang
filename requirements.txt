@@ -1,8 +1,7 @@
-gunicorn
 numpy
 keras.models
 flask
-tensorflow
+tensorflow-cpu==2.11.0
 scikit-learn
 pandas
 numpy
