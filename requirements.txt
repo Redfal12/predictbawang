@@ -1,0 +1,9 @@
+gunicorn
+numpy
+keras.models
+flask
+tensorflow
+scikit-learn
+pandas
+numpy
+datetime
