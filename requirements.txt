@@ -1,9 +1,8 @@
-tensorflow-cpu==2.12.0
+tensorflow-cpu==2.12.0rc1
 gunicorn
 numpy
 keras.models
 flask
 scikit-learn
 pandas
-numpy
 datetime
