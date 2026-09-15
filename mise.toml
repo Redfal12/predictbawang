@@ -1,2 +1,2 @@
-[tools]
-python = "3.10"
+[project]
+requires-python = "==3.12"
